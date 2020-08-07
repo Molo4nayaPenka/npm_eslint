@@ -1,0 +1,25 @@
+{
+  "name": "eslint-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molo4nayaPenka/npm_eslint.git"
+  },
+  "author": "Olga Medvetskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Molo4nayaPenka/npm_eslint/issues"
+  },
+  "homepage": "https://github.com/Molo4nayaPenka/npm_eslint#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
